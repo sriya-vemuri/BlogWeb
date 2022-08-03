@@ -1,0 +1,1 @@
+MONGO_URI = mongodb+srv://Sriya:phw1234!@blogweb.l1efv.mongodb.net/Blogs?retryWrites=true&w=majority
